@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF: -1,DMAX
+https://petopu152.caraponi.me/live/dmax/index.m3u8?token=KVC_jJjZFmi_o57r2QoTnA&expires=1600348442
+#EXTINF: -2,NATIONAL GEO
+https://bola5.mitopo.me/live/nationalgeo/index.m3u8?token=IPzRvvawpn2JoqOQqU2Umg&expires=1600348226
+#EXTINF: -3,DISCOVERY CHANNEL
+https://bola7.mitopo.me/live/discovery/index.m3u8?token=zx6cPVtgeJy2fyKLaY2tvw&expires=1600348547
+#EXTINF: -4,HISTORY
+https://bola7.mitopo.me/live/discovery/index.m3u8?token=zx6cPVtgeJy2fyKLaY2tvw&expires=1600348547
+#EXTINF: -5,ODISEA
+https://bola4.mitopo.me/live/odisea/index.m3u8?token=Mcwn1lkqapuat7RyxPq6VQ&expires=1600348660
+#EXTINF: -6,CRIMEN E INVEST
+https://bola3.mitopo.me/live/ci/index.m3u8?token=B8tX0nw8qDU9aTOPOPSbWg&expires=1600348869
+#EXTINF: -7,AMC
+https://bola2.mitopo.me/live/amc/index.m3u8?token=3BoKyvgOpjrR2Xcihs-kgA&expires=1600348930
+#EXTINF: -8,TyC
+https://petopu152.caraponi.me/live/tycsports/index.m3u8?token=vIEXoGSvH_aEaK0UDPvKew&expires=1600349122
+#EXTINF: -9,BLAZE
+https://bola6.mitopo.me/live/blaze/index.m3u8?token=3FLK97WkKgn_ipc0vf7jOw&expires=1600350575
+#EXTINF: -10,CINEMAX
+https://paredo16.pedromo.me/live/cinemax/index.m3u8?token=kPWbcTRi2VyOxmJ3974yiQ&expires=1600349232
+#EXTINF: -11,DIRECTV SPORTS
+https://telerium.net/ingest01/27011.m3u8?sf=N1dnamFzZGU1WQ==&token=lrOR4W15_Uo_D11H4ps8nA&expires=1600263221&rnd=27011
+#EXTINF: -12,PARAMOUNT
+https://bola8.mitopo.me/live/paramountchannel/index.m3u8?token=3zU1JFXySBZDEY-hV3ocLw&expires=1600350639
+#EXTINF: -13,MEGA
+https://paredo15.pedromo.me/live/mega/index.m3u8?token=TCNRqu4wI1zzcjRFNN_eKg&expires=1600350708
+#EXTINF: -14,AZTECA 7
+https://paredo14.pedromo.me/live/azteca7/index.m3u8?token=TF0u9m6nPvSaDDq8TD4Tag&expires=1600350769
+#EXTINF: -15,LAS ESTRELLAS
+https://ul.cdn946.net:8443/hls/yolmoo963yo.m3u8?s=hrbfQd6sA_TBSzjvfx_wtg&e=1600321489
+#EXTINF: -16,AZTECA UNO
+https://ul.cdn946.net:8443/hls/ynrput0pol6h.m3u8?s=W7buiJHVTpgnlpv-5jWYSg&e=1600321329
+#EXTINF: -17,CANAL 5
+https://ul.cdn946.net:8443/hls/rqoty6lhafz4c.m3u8?s=_m7Tvh3xP0MhFXbJvX1pww&e=1600321554
+#EXTINF: -18,FOX ACTION
+https://u65464.cdn884.net:8443/hls/n42k42q.m3u8?s=wNhqsR0kpcAjFj-NPlpbvA&e=1600321759
+#EXTINF: -19,CANAL SPACE
+https://ul.cdn946.net:8443/hls/ahd138j5ou0819g.m3u8?s=n3wKwM5JaT9T5WzTPv6qNQ&e=1600315794
+#EXTINF: -20,DISCOVERY ID
+https://u86715.cdn884.net:8443/hls/cr30346syxge64.m3u8?s=Q_IlgPA_a-cNXgFj6_ANTg&e=1600315678
+#EXTINF: -21,HISTORY 2
+https://ul.cdn946.net:8443/hls/0m9ce.m3u8?s=-kaImYqHplRLSq-djbKQKA&e=1600315884
+#EXTINF: -22,DISCOVERY SCIENCE
+https://u65464.cdn884.net:8443/hls/jcod7.m3u8?s=dYSwnBiGl4015zYiTSBoyg&e=1600117268
+#EXTINF: -23,CANAL 7
+https://gt-chapintv-canal7-live.ned.media/chapintv/smil:canal7.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAwMzUzNjgxLCJzZXNzaW9uIjoiMTkwLjExNS42Ljc5Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTUuNi43OSJdfSwic2lnbmF0dXJlIjoiMzgyOWI3YWNmYjY5NTNiNGFkNDYwY2EwNjdmNDNmMDE1YTQzZWRjOCJ9
+#EXTINF: -24,TN23
+https://gt-chapintv-canal23-live.ned.media/chapintv/smil:canal23.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAwMzUwODczLCJzZXNzaW9uIjoiMTkwLjExNS42Ljc5Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTUuNi43OSJdfSwic2lnbmF0dXJlIjoiYjkyNzg2Y2ZhMWRkZDc5MjE1YTU3NWE4MWM0MDhiOWM2NzZiYzdiZCJ9
+#EXTINF: -25,TELEMUNDO
+https://ul.cdn946.net:8443/hls/learfrfaw3gwez.m3u8?s=YMjhPkqVKkS1qK9K_baS4Q&e=1600315953
+#EXTINF: -26,CNN
+https://ul.cdn946.net:8443/hls/smc6hmn7tnzh.m3u8?s=dxXzRdR_Dz_U4VS53Us5sQ&e=1600316017
+#EXTINF: -27,TURBO
+https://u65464.cdn884.net:8443/hls/dsnb3fsix7.m3u8?s=AI4_BnlsVMIpd-04c1SDlA&e=1600316105
+#EXTINF: -28,FOX SPORTS 2
+https://ul.cdn946.net:8443/hls/nn2jznc5wwr2d.m3u8?s=9K8sIKG3jsJ08n14lXuHYw&e=1600316238
+#EXTINF: -29,ESPN 2
+https://ul.cdn946.net:8443/hls/gyxl4rt.m3u8?s=bl87MVHjB3wUCPqfs3HlOA&e=1600316359
+#EXTINF: -30,DIRECTV SPORTS 2
+https://u73165.cdn884.net:8443/hls/gyxl4rt.m3u8?s=bl87MVHjB3wUCPqfs3HlOA&e=1600316359
+#EXTINF: -31,CANAL 3
+https://gt-chapintv-canal3-live.ned.media/chapintv/smil:canal3.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjAwMzQ4MzA3LCJzZXNzaW9uIjoiMTkwLjExNS42Ljc5Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTUuNi43OSJdfSwic2lnbmF0dXJlIjoiNWI2OWNjZmRmNWEzZmYzY2NmNzA3OTU3NjFmNTI4MDgzMWZmZGUzNiJ9
+#EXTINF: -32,DE PELICULA
+https://ul.cdn946.net:8443/hls/1207u.m3u8?s=_elp3DLdCg9SHktwF2YN6w&e=1600316495
+#EXTINF: -33,UNIVISION
+https://ul.cdn946.net:8443/hls/ulxk9y.m3u8?s=rASK9YEu03cEQYe80lTPhA&e=1600316559
+#EXTINF: -34,DISCOVERY CIV
+https://ul.cdn946.net:8443/hls/xvd3rskegzm.m3u8?s=ttv-pgWMj-pzNsVYdULVDA&e=1600164848
+#EXTINF: -35,HOME & HEALTH
+https://ul.cdn946.net:8443/hls/tl3ntsm8.m3u8?s=x6oPTE18V3tOdEzvHBO1NQ&e=1600316645
+#EXTINF: -36,DISCOV WORLD
+https://ul.cdn946.net:8443/hls/8lrx0rj7tfy.m3u8?s=R8Ph5PzWP5kH-KLa2KwwBA&e=1600316720
+#EXTINF: -37,CAZA Y PESCA
+https://ul.cdn946.net:8443/hls/h6zbsv.m3u8?s=zBjE-JhW8wU6UywhJQVYyw&e=1600288735
+#EXTINF: -38,DISCOVERY SCIENCE
+http://89.105.194.59:25461/live/2docWAF$/2docWAF$/83.m3u8
+#EXTINF: -39,DISCOVERY CIVI
+https://ul.cdn946.net:8443/hls/xvd3rskegzm.m3u8?s=sKJyOpqWbX-2S7chGTQzcA&e=1600288632
+#EXTINF: -40,IZZI
+https://ul.cdn946.net:8443/hls/6uorevoc.m3u8?s=CSUVmCkyCC_3c8hFQ4fv-g&e=1600315529
